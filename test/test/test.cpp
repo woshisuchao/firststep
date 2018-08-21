@@ -51,6 +51,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
             DispatchMessage(&msg);
 			//"woshinidie";
 			//niyaoxiangxinwo
+			//sss
         }
     }
 
